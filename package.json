@@ -1,0 +1,27 @@
+{
+  "name": "sae-api",
+  "version": "1.0.0",
+  "description": "project",
+  "main": "server.js",
+  "scripts": {
+    "start":"node src/server.js"
+    
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeyco1991/sae-api.git"
+  },
+  "keywords": [
+    "api"
+  ],
+  "author": "jei.co16@hotmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeyco1991/sae-api/issues"
+  },
+  "homepage": "https://github.com/jeyco1991/sae-api#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pg": "^8.2.1"
+  }
+}
